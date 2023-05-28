@@ -13,3 +13,13 @@ Homework03: Seamless Cloning
 Homework04: Context Aware Seam Carving
 
 Homework05: Parametrization of Surface Triangulations
+
+Homework06: Laplace Surface Editing
+
+Homework07: As Rigid as Possible Interpolation
+
+Homework08: Bezier Curve
+
+Homework09: Texture Mapping
+
+Homework10: Orthographic projection
