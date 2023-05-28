@@ -1,5 +1,5 @@
 # Computer-Graphics-23spring
-A repsitory for storing homework, program or etc. of the course Computer Graphics in the spring of 2023, from USTC.
+A repsitory storing homework, slides, references or etc. of the course Computer Graphics in the spring of 2023, from USTC.
 
 Webpage: ```http://staff.ustc.edu.cn/~renjiec/CG_2022S2/default.htm```
 
