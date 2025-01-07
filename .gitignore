@@ -1,0 +1,8 @@
+*.zip
+*.aux
+*.log
+*.synctex.gz
+*.bib
+**/glvu
+**/3rdparty
+**/.vs
